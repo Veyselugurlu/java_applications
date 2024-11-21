@@ -1,0 +1,18 @@
+veysel ugurlu,80,80,70 adli ogrenci FF aldi ve kaldi
+mehmetali sivri,70,90,70 adli ogrenci FF aldi ve kaldi
+hasan emre bagriyanik,90,70,70 adli ogrenci FF aldi ve kaldi
+ali osman,50,90,80 adli ogrenci FF aldi ve kaldi
+ersin tekinel,70,80,80 adli ogrenci FF aldi ve kaldi
+gamze turker,70,90,90 adli ogrenci FF aldi ve kaldi
+seher memiş,90,80,80 adli ogrenci FF aldi ve kaldi
+ayse findik,30,40,30 adli ogrenci FF aldi ve kaldi
+selin ates,20,50,70 adli ogrenci FF aldi ve kaldi
+selma silaoglu,10,70,90 adli ogrenci FF aldi ve kaldi
+aysenur adiguzel,40,60,80 adli ogrenci FF aldi ve kaldi
+salih kinay,90,100,100 adli ogrenci FF aldi ve kaldi
+ferhat kemal bozkurt,50,50,50 adli ogrenci FF aldi ve kaldi
+kagan aloglu,30,40,50 adli ogrenci FF aldi ve kaldi
+emin yedi,20,70,50 adli ogrenci FF aldi ve kaldi
+celil sofaoglu,65,65,65 adli ogrenci FF aldi ve kaldi
+ekin dalan,45,45,45 adli ogrenci FF aldi ve kaldi
+ekrem allı,75,75,75 adli ogrenci FF aldi ve kaldi
